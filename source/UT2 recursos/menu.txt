@@ -1,0 +1,28 @@
+Nigiri	Salmón	1.95	Nigiri-de-salmon.jpg	
+Nigiri	Salmón flambeado	1.95	Nigiri-de-salmon-flambeado.jpg	
+Nigiri	Atún rojo	2.25	Nigiri-de-atun-rojo.jpg	
+Nigiri	Atún rojo flambeado	2.35	Nigiri-de-atun-rojo-flambeado.jpg	
+Nigiri	Langostino	1.85	Nigiri-de-langostino.jpg	
+Nigiri	Anguila	2.25	Nigiri-de-anguila.jpg	
+Maki	Salmón	0.70	Maki-Salmon.jpg	
+Maki	Aguacate	0.60	Maki-aguacate.jpg	
+Maki	Langostino	0.75	Maki-de-langostino.jpg	gluten, soja, moluscos
+Maki	Atún	0.70	Maki-atun.jpg	
+Maki	Atún Picante	0.75	Maki-atun-picante.jpg	soja
+Maki	Pepino y Queso	0.50	Maki-pepino-y-queso.jpg	lacteos
+Temaki	Salmón y Aguacate	4.50	temaki-salmon-y-aguacate-1pz.jpg	
+Temaki	Langostino	4.90	temaki-de-langostino-1pz.jpg	gluten, mostaza, huevos, soja
+Temaki	Atún Rojo y Aguacate	4.90	temaki-de-atun-y-aguacate-1pz.jpg	sesamo
+Temaki	Anguila	5.90	temaki-de-anguila-1pz.jpg	mostaza, huevos, soja
+Temaki	Cangrejo y Aguacate	3.90	temaki-de-cangrejo-y-aguacate-1pz.jpg	huevos, soja, lacteos
+Temaki	Vegetal	3.90	temaki-vegetal-1pz.jpg	
+Sashimi	Salmón	1.75	Sashimi-de-salmon.jpg	
+Otros	Gyozas Crujientes (pack 4)	5.50	gyoza-slider.jpg	gluten, soja, sesamo
+Otros	Gyozas Vegetales (pack 4)	5.50	gyozas-verduras.jpg	gluten, soja
+Otros	Edamame	4.50	Edamame.jpg	gluten, soja
+Otros	Aguabona 1.5L	1.90	botella-de-agua-15-l-aquabona.jpg	
+Otros	Pepsi	1.90	pepsi.jpg	
+Otros	Pepsi Light	1.90	pepsi-light.jpg	
+Otros	Pepsi Max	1.90	pepsi-max.png	
+Otros	Kas Naranja	1.90	kas-naranja.jpg	
+Otros	Kas Limón	1.90	kas-limon.jpg	

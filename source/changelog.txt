@@ -1,0 +1,73 @@
+v. 1.0.0
+====================================== ADDED ==================================================
+00. CSS
+00.1. Limpiar código
+
+01. Index
+	01.2. Login y logout sin función header
+
+02. Perfil
+	02.1. Validación del perfil
+	02.2. Escribir en clientes.txt
+	02.3. $_SESSION["user"] = nombre de clientes.txt -> cargar perfil
+	02.4. Cambiar datos de un cliente
+
+04. Factura
+	04.1. Descuento por bandeja
+	04.2. Formato factura (printf)
+	04.3. Validar perfil => confirmar pedido
+	04.4. Crear pedidos.txt con los datos de la factura (nombre, precio total, fecha y hora)
+	04.5. El pedido se guarda en la sesión
+
+05. Gestión de carta y clientes
+	05.1. Editar menu.txt
+	05.2. Añadir a menu.txt
+	05.3. Mejores clientes
+
+06. Directivas
+	06.0.1 .htaccess
+	06.1. auto_prepend => header
+	06.2. auto_append => footer
+
+07. Funciones
+	07.1. Función para limpiar datos de perfil
+	07.2. Función para leer archivo txt
+
+
+v. 0.0.0
+====================================== ADDED ==================================================
+01. Index
+	01.1.1. Barra de menú => necesita estar logeado.
+02. Perfil
+03. Pedido
+	04.1. Alérgenos
+	04.2. Cantidad de Nigiri/Maki/Temaki/Sashimi => step 2 en 2 / cantidad máxima 24.
+04. Factura
+05. Gestión de carta y clientes
+
+====================================== TBC ==================================================
+01. Index
+	01.2. Login y logout sin función header
+
+02. Perfil
+	02.1. Validación del perfil
+	02.2. Escribir en clientes.txt
+	02.3. $_SESSION["user"] = nombre de clientes.txt -> cargar perfil.
+
+04. Factura
+	04.1. Descuento por bandeja
+	04.1.1. Bandeja de nigiri (cada 2)
+	04.1.2. Bandeja de maki (cada 8)
+	04.2. Formato factura (printf)
+	04.3. Validar perfil => confirmar pedido
+
+05. Gestión de carta y clientes
+	05.1. Editar menu.txt
+	05.2. Añadir a menu.txt
+	05.3. Mejores clientes
+
+06. Directivas
+	06.1. auto_prepend => header
+	06.2. auto_append => footer
+
+07. Funciones
